@@ -1,5 +1,5 @@
 [package]
-name = "colemak-qwerty-collisions"
+name = "colemak-qwerty-words"
 version = "0.1.0"
 authors = ["David Sullins <david.sullins@gmail.com>"]
 edition = "2018"
